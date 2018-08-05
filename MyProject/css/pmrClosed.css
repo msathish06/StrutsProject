@@ -1,0 +1,20 @@
+.pmrClosed {
+  background: lightgreen;
+  color: blue;
+  font: bold small 'thoma',helvetica,sans-serif;
+  border:1px solid;   
+  border-color: #696 #363 #363 #696;
+  text-align: center;
+  padding: 10px 20px;
+  -moz-border-radius: 2px;
+  border-radius: 15px;
+  cursor: pointer;
+  width: 100px; 
+  height: 40px;
+  
+  }
+  
+  .pmrClosed :hover 
+   {
+   background: #ffffb3; 
+   }

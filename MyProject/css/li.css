@@ -1,0 +1,22 @@
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+	font: bold small 'thoma',helvetica,sans-serif;
+	border-color: #696 #363 #363 #696;
+    color: Red;
+    text-align: center;
+    padding: 14px 16px;
+	cursor: pointer;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: White;
+}
+
+li.dropdown {
+    display: inline-block;
+}
